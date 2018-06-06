@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e3cf175-1d05-4f66-b2ab-d0c5aa555cfa" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson17.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson13.txt" afterPath="$PROJECT_DIR$/lesson13.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson14.txt" afterPath="$PROJECT_DIR$/lesson14.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15.txt" afterPath="$PROJECT_DIR$/lesson15.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson16.txt" afterPath="$PROJECT_DIR$/lesson16.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson7.txt" afterPath="$PROJECT_DIR$/lesson7.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +26,8 @@
       <file leaf-file-name="lesson13.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson13.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2451">
-              <caret line="129" column="2" lean-forward="false" selection-start-line="129" selection-start-column="2" selection-end-line="129" selection-end-column="2" />
+            <state relative-caret-position="2964">
+              <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -30,8 +36,8 @@
       <file leaf-file-name="lesson14.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson14.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2717">
-              <caret line="143" column="56" lean-forward="false" selection-start-line="143" selection-start-column="56" selection-end-line="143" selection-end-column="56" />
+            <state relative-caret-position="3021">
+              <caret line="159" column="56" lean-forward="false" selection-start-line="159" selection-start-column="56" selection-end-line="159" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -41,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/lesson15.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1140">
-              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,8 +56,8 @@
       <file leaf-file-name="lesson16.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson16.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="86" column="17" lean-forward="true" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
+            <state relative-caret-position="722">
+              <caret line="97" column="17" lean-forward="false" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -825,7 +831,7 @@
       <workItem from="1527663788664" duration="9572000" />
       <workItem from="1527729170908" duration="22673000" />
       <workItem from="1527825277126" duration="790000" />
-      <workItem from="1528251344362" duration="461000" />
+      <workItem from="1528251344362" duration="727000" />
     </task>
     <task id="LOCAL-00001" summary="增加lesson8.txt 内容，lesson9.txt">
       <created>1527680457196</created>
@@ -862,11 +868,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527760631673</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="增加lesson13.txt 到lesson16.txt">
+      <created>1528251814630</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1528251814630</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38614000" />
+    <option name="totallyTimeSpent" value="38880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -883,7 +896,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6603476" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.67456555" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24889217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -913,7 +926,8 @@
     <MESSAGE value="增加lesson8.txt 内容，lesson9.txt" />
     <MESSAGE value="增加lesson10.txt 到lesson12.txt" />
     <MESSAGE value="增加lesson13.txt 到lesson16.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加lesson13.txt 到lesson16.txt" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/luxuebao/fishc&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;lesson13.txt&#10;#&#9;lesson14.txt&#10;#&#9;lesson15.txt&#10;#&#9;lesson16.txt&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/luxuebao/fishc&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;lesson13.txt&#10;#&#9;lesson14.txt&#10;#&#9;lesson15.txt&#10;#&#9;lesson16.txt&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1111,16 +1125,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson13.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2451">
-          <caret line="129" column="2" lean-forward="false" selection-start-line="129" selection-start-column="2" selection-end-line="129" selection-end-column="2" />
+        <state relative-caret-position="2964">
+          <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson14.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2717">
-          <caret line="143" column="56" lean-forward="false" selection-start-line="143" selection-start-column="56" selection-end-line="143" selection-end-column="56" />
+        <state relative-caret-position="3021">
+          <caret line="159" column="56" lean-forward="false" selection-start-line="159" selection-start-column="56" selection-end-line="159" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -1128,15 +1142,15 @@
     <entry file="file://$PROJECT_DIR$/lesson15.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson16.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="86" column="17" lean-forward="true" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
+        <state relative-caret-position="722">
+          <caret line="97" column="17" lean-forward="false" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
           <folding />
         </state>
       </provider>

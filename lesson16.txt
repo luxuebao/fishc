@@ -48,9 +48,15 @@ tuple([iterable]) 把可迭代对象转换为元祖
 str(obj)  把对象转换为字符串
 
 例如：
+<<<<<<< HEAD
 	>>> temp = 'I love FishC.com!'
 	>>> list(temp)
 	['I', ' ', 'l', 'o', 'v', 'e', ' ', 'F', 'i', 's', 'h', 'C', '.', 'c', 'o', 'm', '!']
+=======
+>>> temp = 'I love FishC.com!'
+>>> list(temp)
+['I', ' ', 'l', 'o', 'v', 'e', ' ', 'F', 'i', 's', 'h', 'C', '.', 'c', 'o', 'm', '!']
+>>>>>>> fad9bb982eaf69007ac468b509624dece2db204b
 
 
 
@@ -75,8 +81,13 @@ for each in score:
         IsFind = True
         break
 
+<<<<<<< HEAD
 	if IsFind == False:
 	    print('查找的数据不存在！')
+=======
+if IsFind == False:
+    print('查找的数据不存在！')
+>>>>>>> fad9bb982eaf69007ac468b509624dece2db204b
 
 
 
@@ -109,9 +120,15 @@ def sum(x):
         else:
             continue
 
+<<<<<<< HEAD
 	    return result
 
 	print(sum([1, 2.1, 2.3, 'a', '1', True]))
+=======
+    return result
+
+print(sum([1, 2.1, 2.3, 'a', '1', True]))
+>>>>>>> fad9bb982eaf69007ac468b509624dece2db204b
 
 
 
